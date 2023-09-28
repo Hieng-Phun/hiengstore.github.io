@@ -203,7 +203,7 @@ body {
 }
 .banner img {
   width: 100%;
-  border-bottom: 4rem solid rgba(28, 28, 71, 0.91);
+  border-bottom: 0.1rem solid rgba(28, 28, 71, 0.91);
 }
 .contant_banner {
   position: absolute;
